@@ -3,6 +3,7 @@
 ```javascript
 
 const AboutMe = () => {
+
     const getCurrentWorkplace = () => {
         return (
             const workplace = {
