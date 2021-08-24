@@ -1,6 +1,6 @@
 ### <h1> Hi, I'm Fabio Quintero </h1>
 
-<h2>Soy Full Satck Web Developer,</h2>
+Soy Full Satck Web Developer,
 
 <p>Me apasiona la programación y quiero dedicar mi tiempo a eso. Soy una persona sociable que me gusta trabajar en equipo y conocer a las personas, 
 me encanta estudiar y los desafíos nuevos.<p>
