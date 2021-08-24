@@ -24,7 +24,7 @@ const AboutMe = () => {
             Express:    'class',
             Php:        'class',
             Sql:        'class'
-        };
+        }
     }
 
     const getFutureGoal = () => {
