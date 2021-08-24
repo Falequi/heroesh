@@ -7,7 +7,7 @@
 >Me apasiona la programación y quiero dedicar mi tiempo a eso. Soy una persona sociable que me gusta trabajar en equipo y conocer a las personas, 
 >me encanta estudiar y los desafíos nuevos.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## Habilidades:
 
 <table>
   <tbody>
@@ -61,4 +61,11 @@
   </tbody>
 </table>
 <hr>
+
+### Proyectos:
+
+https://falequi-heroesh.vercel.app/
+
+Click Aqui  
+
 
