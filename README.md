@@ -65,7 +65,13 @@
 ### Proyectos:
 
 #### Video Games:
-Proyecto desarrollado con Posgress, Sequelize
+Proyecto desarrollado con base de datos Posgress y ORM Sequelize, consumo a API de juegos, el Backend se realizo con Node y Express y el Fronend se realizo con React y Redux.
+- Realiza consulta de juegos.
+- Paginacion de 20 juego por pagina.
+- Se puede filtrar por:
+- Orden alfabetico ascendente y descendente
+- Orden por generos.
+- Orden por 
 
 <img src="https://github.com/heroesh/heroesh/blob/main/VideoGames.JPG"/>
 
