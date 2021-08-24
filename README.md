@@ -5,12 +5,10 @@
 const AboutMe = () => {
 
     const getCurrentWorkplace = () => {
-        return (
-            workplace = {
+        return {
                 company: 'Soy Henry',
                 position: 'Full-Stack Teaching Assistant'
             }
-        );
     }
 
     const getDailyKnowledge = () => {
