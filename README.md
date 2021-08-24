@@ -69,4 +69,4 @@ Proyecto desarrollado con Posgress, Sequelize
 
 <img src="https://github.com/heroesh/heroesh/blob/main/VideoGames.JPG"/>
 
-Click [Aqui](https://falequi-heroesh.vercel.app/)
+Click [Aqui](https://falequi-heroesh.vercel.app/) para ver el proyecto
