@@ -2,10 +2,8 @@
 
 ```javascript
 
-const AboutMe = () =>
-{
-    const getCurrentWorkplace = () =>
-    {
+const AboutMe = ()=>{
+    const getCurrentWorkplace = ()=>{
         return (
             const workplace = {
                 company: 'Soy Henry',
@@ -14,8 +12,7 @@ const AboutMe = () =>
         );
     }
 
-    const getDailyKnowledge = ()=>
-    {
+    const getDailyKnowledge = ()=>{
         return {
             Php:'class',
             Javascript:'class',
@@ -28,8 +25,7 @@ const AboutMe = () =>
         };
     }
 
-    public function getFutureGoal()
-    {
+    public function getFutureGoal(){
         return 'To contribute to open source.';
     }
 }
