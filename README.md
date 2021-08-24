@@ -69,9 +69,12 @@ Proyecto desarrollado con base de datos Posgress y ORM Sequelize, consumo a API 
 - Realiza consulta de juegos.
 - Paginacion de 20 juego por pagina.
 - Se puede filtrar por:
-- Orden alfabetico ascendente y descendente
-- Orden por generos.
-- Orden por 
+    - Orden alfabetico ascendente y descendente.
+    - Orden por generos.
+    - Orden por plataforma.
+    - Orden por rating.
+- Tambien se puede buscar por nombre del juego.
+- Y podemos crear un juego. 
 
 <img src="https://github.com/heroesh/heroesh/blob/main/VideoGames.JPG"/>
 
