@@ -48,6 +48,24 @@
         <img height=64px src="https://img.icons8.com/color/2x/angularjs.png"> 
       </td>
     </tr>
+        <tr valign="top">
+      <td width="25%" align="center">
+        <span>Redux</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/2x/redux.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>MySql</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td>
+      <td align="center" width="20%">
+        <span><strong>NodeJS</strong></span><br><br><br>
+        <img height=64px src="https://img.icons8.com/color/2x/nodejs.png"> 
+      </td>
+       <td align="center" width="20%">
+        <span><strong>AngularJS</strong></span><br><br><br>
+        <img height=64px src="https://img.icons8.com/color/2x/angularjs.png"> 
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr>
