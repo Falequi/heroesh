@@ -29,4 +29,7 @@ const AboutMe = () => {
         return 'To contribute to open source.';
     }
 }
+
+export default AboutMe;
 ```
+
