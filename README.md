@@ -54,8 +54,8 @@
         <img height="64px" src="https://img.icons8.com/color/2x/redux.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        <span><strong>PHP</strong></span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/offices/100/000000/php-logo.png">
       </td>
       <td align="center" width="20%">
         <span><strong>NodeJS</strong></span><br><br><br>
