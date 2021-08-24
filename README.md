@@ -8,7 +8,7 @@ const AboutMe = () => {
         return (
             const workplace = {
                 company: 'Soy Henry',
-                position: 'Full Stack Developer'
+                position: 'Full-Stack Teaching Assistant'
             }
         );
     }
@@ -24,7 +24,8 @@ const AboutMe = () => {
             Redux:      'class',
             Node:       'class',
             Express:    'class',
-            Php:        'class'
+            Php:        'class',
+            Sql:        'class'
         };
     }
 
