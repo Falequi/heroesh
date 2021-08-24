@@ -15,14 +15,16 @@ const AboutMe = () => {
 
     const getDailyKnowledge = () => {
         return {
-            Php:'class',
-            Javascript:'class',
-            Laravel:'class',
-            Vuejs:'class',
-            Angular:'class',
-            ReactNative:'class',
-            TailwindCss:'class',
-            Aws::'class',
+            Html:       'class',
+            Css:        'class',
+            Php:        'class',
+            Javascript: 'class',
+            Angular:    'class',
+            React:      'class',
+            Redux:      'class',
+            Node:       'class',
+            Express:    'class',
+            Php:        'class'
         };
     }
 
