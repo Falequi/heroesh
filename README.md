@@ -57,14 +57,6 @@
         <span><strong>PHP</strong></span><br><br><br>
         <img height="64px" src="https://img.icons8.com/offices/100/000000/php-logo.png">
       </td>
-      <td align="center" width="20%">
-        <span><strong>NodeJS</strong></span><br><br><br>
-        <img height=64px src="https://img.icons8.com/color/2x/nodejs.png"> 
-      </td>
-       <td align="center" width="20%">
-        <span><strong>AngularJS</strong></span><br><br><br>
-        <img height=64px src="https://img.icons8.com/color/2x/angularjs.png"> 
-      </td>
     </tr>
   </tbody>
 </table>
