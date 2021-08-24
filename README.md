@@ -64,7 +64,6 @@
 
 ### Proyectos:
 
-
-
-
+#### Video Games:
+Proyecto desarrollado con Posgress, Sequelize
 Click [Aqui](https://falequi-heroesh.vercel.app/)
