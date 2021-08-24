@@ -6,7 +6,7 @@ const AboutMe = () => {
 
     const getCurrentWorkplace = () => {
         return (
-            const workplace = {
+            workplace = {
                 company: 'Soy Henry',
                 position: 'Full-Stack Teaching Assistant'
             }
