@@ -1,4 +1,4 @@
-### <h1>Hola, Soy Fabio Quintero </h1>
+### <h1> Hi, I'm Fabio Quintero </h1>
 
 ```javascript
 
